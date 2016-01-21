@@ -65,7 +65,7 @@ The compareTo method will go as follows:
 
 ###Our CRC implementation of our classes
 
-![This is cool, too bad you can't see it](crc.jpg "Our CRC cards")
+![This is cool, too bad you can't see it](Untitled-1.png "Our CRC cards")
 
 ###Class 1
 
