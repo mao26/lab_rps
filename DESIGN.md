@@ -17,8 +17,8 @@ This will contain a read data method, game method:
 
 	* reads the data
 	* creates a Collection with all of our objects
-		*This collection creates all of our possible objects from the data that is being read
-		*The collection then stores all of our RNS objects, so that the user can grab one object from the hashmap
+		1. This collection creates all of our possible objects from the data that is being read
+		2. The collection then stores all of our RNS objects, so that the user can grab one object from the hashmap
 	* allows the users to pick the number of rounds
 	
 3. The game loop will be made up of a couple of functions
