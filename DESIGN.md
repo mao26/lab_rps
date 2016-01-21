@@ -63,6 +63,10 @@ The compareTo method will go as follows:
     
 ```
 
+Our CRC implementation of our classes
+
+![This is cool, too bad you can't see it](crc.jpg "Our CRC cards")
+
 ###Class 1
 
 * Bullets are made with asterisks
